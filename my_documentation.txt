@@ -1,0 +1,73 @@
+<h1>...<h6> Size of the content inside it 
+
+<br> Line brake [SELF CLOSING TAG]
+
+<hr> Line brake + Horizontal line on it SELF CLOSING TAG 
+<hr size="3"> One of the attribute of <hr> tag
+
+<title> Tab main for our website
+
+<meta name="description" content="This is the best website">  
+Website ke niche jo preview me display hota hey vo chiz hey ye.
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+Used to make your website look structured in all the devices.
+
+<p> Paragraph
+
+<em> OR <i> Makes the inner content Italic
+
+<b> OR <strong> Makes the inner content Bold
+
+Lorem[number] -> Use for adding temporary data in anything 
+
+<ul> Unordered list (ANY LIST MAY BE NESTED)
+<li> List item in it
+
+<ol> Ordered list
+<ol type=" "> Type may be "1" for numbers,"a" OR "A" for alphabets, "i" OR "I" for Roman numbers. 
+
+<img src="image/image.jpg" alt="Random Photo" height="100" width="100"> Used to add image on website
+src -> Either URL from internet OR Local address of that file of either same folder of different.
+alt -> ALternate text if image doesn't load
+height, widht -> As name suggests.
+Note -> If you want to open a new webpage in new tab so do ctrl + link click operation
+We can also add HTML file name in href attribute to make the content visible of that HTML file 
+
+<table> -> Table tag                                    ---> This is the basic table syntax in HTML. 
+    <thead> -> Table heading just like column name
+        <tr> -> Table row
+            <th> ABC </th> -> Table heading data
+            <th> XYZ </th>
+        </tr>
+    </thead>
+    <tbody> -> Body part of the table
+        <tr>
+            <td> Maitreya </td> -> Table row data/ single cell data
+            <td> Moharil </td>
+        </tr>
+    </tbody>
+    <tfooter> 
+        OOOOOOOOOOO
+    </tfooter>
+Tables may also be nested(table into a table) to achieve proper and ideal structure.
+
+<form> -> Tag used to create FORM
+ <lable> -> Tag which tells us about the input type
+ <input> Tag where we can change our input type
+Input types are -> text, password, number, date, email, button, color, checkbox
+                   time, submit, file, range ETC
+<textarea> Tag which provides textarea to users
+
+
+
+
+
+
+
+
+
+
+
+
+
